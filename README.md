@@ -1,2 +1,4 @@
 # balloballo
-Epic Phaser game
+Epic game
+
+Phaser, ES6, Webpack
